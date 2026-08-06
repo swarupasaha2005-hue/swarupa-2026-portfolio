@@ -93,22 +93,16 @@ export const DATA = {
 
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/ahir-sarkar/",
+        url: "https://www.linkedin.com/in/swarupa-saha-417566381/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://x.com/ahirgrinds",
+        url: "https://x.com/__SWARUPA__",
         icon: Icons.x,
 
-        navbar: true,
-      },
-      Medium: {
-        name: "Medium",
-        url: "https://medium.com/@ahirsarkar2022",
-        icon: Icons.medium,
         navbar: true,
       },
       email: {

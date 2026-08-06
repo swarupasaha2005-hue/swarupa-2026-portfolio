@@ -203,7 +203,7 @@ export default function Page() {
       {/* Footer Credits */}
       <footer className="text-center text-xs text-muted-foreground/55 space-y-1 select-none mt-16 pb-8">
         <p>
-          Design &amp; Modified by <span className="font-semibold text-muted-foreground/80">Ahir</span>
+          Design &amp; Modified by <span className="font-semibold text-muted-foreground/80">Swarupa</span>
         </p>
         <p>&copy; 2026. All rights reserved.</p>
       </footer>
