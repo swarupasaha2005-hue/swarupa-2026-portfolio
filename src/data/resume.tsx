@@ -128,6 +128,17 @@ export const DATA = {
       description:
         "Helping developers explore, build, and ship on the Stellar network through community initiatives, hackathons, workshops, and educational content.",
     },
+    {
+      company: "Institution's Innovation Council (IIC), IEM",
+      href: "#",
+      badges: [],
+      location: "Kolkata",
+      title: "Junior Researcher",
+      logoUrl: "/iic-iem.png",
+      start: "Sep 2024",
+      end: "Present",
+      description: "",
+    },
   ],
   education: [
     {
